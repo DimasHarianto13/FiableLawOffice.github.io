@@ -1,0 +1,88 @@
+#jumbotron {
+  background-image: url(img/chris-brignola-X2CxUXFqKcM-unsplash\ 1.png);
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+#jumbotron .awalan {
+  margin-top: 200px;
+}
+
+.awalan .display-4 {
+  color: #033f89;
+}
+.awalan .display-4 span {
+  color: #ff870b;
+}
+
+a.sosial {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #333;
+  line-height: 40px;
+}
+
+.btn-light {
+  position: relative;
+  padding: 11px 16px;
+  font-size: 15px;
+  line-height: 1, 5px;
+  color: #fff;
+  background-color: #333;
+  border: 0;
+  overflow: hidden;
+}
+
+#layanan {
+  background: url(img/bg3.png);
+  background-size: cover;
+  padding-top: 10%;
+}
+
+#artikel {
+  background: url(img/bg3.png);
+  background-size: cover;
+  padding-top: 10%;
+}
+
+.fotbar {
+  background-color: blue;
+}
+
+.carousel-control-prev-icon {
+  background-color: #fd7e14;
+  border-radius: 10%;
+}
+
+.carousel-control-next-icon {
+  background-color: #fd7e14;
+  border-radius: 10%;
+}
+
+.banner1 {
+  background: url("img/bg\ \(2\).png") no-repeat center center;
+  background-size: cover;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  color: #fff;
+}
+
+a.sosmed {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  color: #fff;
+  border-radius: 50%;
+  line-height: 40px;
+}
+
+.fotbar {
+  background-color: #002a5f;
+}
+
+.kontak {
+  background-color: #033f89;
+}
